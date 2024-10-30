@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Convite/static/css/main.7e03b835.css",
+    "main.js": "/Convite/static/js/main.5c9f83e2.js",
+    "static/js/453.979e7e04.chunk.js": "/Convite/static/js/453.979e7e04.chunk.js",
+    "index.html": "/Convite/index.html",
+    "main.7e03b835.css.map": "/Convite/static/css/main.7e03b835.css.map",
+    "main.5c9f83e2.js.map": "/Convite/static/js/main.5c9f83e2.js.map",
+    "453.979e7e04.chunk.js.map": "/Convite/static/js/453.979e7e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e03b835.css",
+    "static/js/main.5c9f83e2.js"
+  ]
+}
